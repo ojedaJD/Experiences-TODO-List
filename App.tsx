@@ -9,6 +9,7 @@ import {
     StyleSheet,
     Alert,
     Image,
+    ScrollView,
 } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import * as ImagePicker from 'expo-image-picker';
